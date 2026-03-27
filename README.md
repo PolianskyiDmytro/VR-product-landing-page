@@ -21,12 +21,12 @@ The project focuses on clean layout structure, scalable styling, and modern fron
 This project was created to practice building complex landing pages, improve responsive design skills, and apply scalable CSS architecture using BEM and SCSS.
 
 ## 🌐 Live Demo
-[View Project](https://PolianskyiDmytro.github.io/Kickstarter-product-landing-page/)
+[View Project](https://PolianskyiDmytro.github.io/VR-product-landing-page/)
 
 ## 🚀 Getting Started
 
 ### 📥 Clone the repository
-git clone [https://github.com/PolianskyiDmytro/Kickstarter-product-landing-page.git](https://github.com/PolianskyiDmytro/Kickstarter-product-landing-page.git)
+git clone [https://github.com/PolianskyiDmytro/VR-product-landing-page.git](https://github.com/PolianskyiDmytro/VR-product-landing-page.git)
 
 cd Kickstarter
 
